@@ -8,7 +8,7 @@ This repository contains the dataset and details pertaining to the Tableau dashb
 
 You can find the dashboard here - [Netflix Dashboard](https://public.tableau.com/views/Netflix_Dashboard_17178822040320/Netflix?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-<img src="Dasboard_image.png">
+<img src="Dashboard_image.png">
 
 ## Dataset
 
